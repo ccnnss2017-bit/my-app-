@@ -1,0 +1,7 @@
+{
+  "name": "사전점검 앱",
+  "description": "하자점검 앱",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
